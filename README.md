@@ -1,4 +1,4 @@
-# Real-Time Data Streaming & Analytics Platform with Docker 📊
+# Real-Time Analytics Platform with Docker 📊
 ![image](https://github.com/user-attachments/assets/bba88205-0555-498c-93f7-58548f3cb1d2)
 
 🚀 Overview
